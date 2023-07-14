@@ -49,5 +49,14 @@ int main() {
 }
 ```
 
+Compile the program using the Knight's Tour and Bit Array source files:
+```
+gcc main.c knight_tour.c bit_array.c -o knight_tour
+```
+
+```
+./knight_tour
+```
+
 # Contributing
 Contributions to the Knight's Tour implementation are welcome. If you find any issues or want to improve the existing implementation, feel free to open a pull request.
